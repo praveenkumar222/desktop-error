@@ -8,6 +8,7 @@ To Fix this error copy it and paste on termux ...
 git clone https://github.com/praveenkumar222/desktop-error.git
 cd desktop-error.git
 mv datar.tar.xz $HOME
+cd $HOME
 tar -xvf ./datar.tar.xz
 rm ./datar.tar.xz
 wget https://github.com/Yisus7u7/termux-desktop-xfce/releases/download/kde/breeze-cursor-theme_5.20.5-4_all.deb

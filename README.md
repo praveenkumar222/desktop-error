@@ -6,7 +6,7 @@ To Fix this error copy it and paste on termux ...
 
 ```
 git clone https://github.com/praveenkumar222/desktop-error.git
-cd desktop-error.git
+cd desktop-error
 mv datar.tar.xz $HOME
 cd $HOME
 tar -xvf ./datar.tar.xz
